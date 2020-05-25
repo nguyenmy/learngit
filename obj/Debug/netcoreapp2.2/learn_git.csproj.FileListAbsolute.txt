@@ -1,0 +1,11 @@
+d:\Projects\learn_git\bin\Debug\netcoreapp2.2\learn_git.deps.json
+d:\Projects\learn_git\bin\Debug\netcoreapp2.2\learn_git.runtimeconfig.json
+d:\Projects\learn_git\bin\Debug\netcoreapp2.2\learn_git.runtimeconfig.dev.json
+d:\Projects\learn_git\bin\Debug\netcoreapp2.2\learn_git.dll
+d:\Projects\learn_git\bin\Debug\netcoreapp2.2\learn_git.pdb
+d:\Projects\learn_git\obj\Debug\netcoreapp2.2\learn_git.csprojAssemblyReference.cache
+d:\Projects\learn_git\obj\Debug\netcoreapp2.2\learn_git.csproj.CoreCompileInputs.cache
+d:\Projects\learn_git\obj\Debug\netcoreapp2.2\learn_git.AssemblyInfoInputs.cache
+d:\Projects\learn_git\obj\Debug\netcoreapp2.2\learn_git.AssemblyInfo.cs
+d:\Projects\learn_git\obj\Debug\netcoreapp2.2\learn_git.dll
+d:\Projects\learn_git\obj\Debug\netcoreapp2.2\learn_git.pdb
