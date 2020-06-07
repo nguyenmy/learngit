@@ -70,6 +70,16 @@ void nhapds(SINHVIEN a[], int &n)
 	scanf_s("%d", &n);
 	for (int i = 0; i < n; i++)
 		nhapsv(a[i]);
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Hello World!");
+            // commit m2
+            // commit f1
+            // commit f2
+        }
+    }
 }
 void xuatds(SINHVIEN a[], int n)
 {
